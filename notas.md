@@ -12,4 +12,5 @@
 - INPUT siempre regresa un string (letras/texto)
 
 git init -- es para mandar un archivo a repositorio
-git commit -- 
+git commit --
+git push
