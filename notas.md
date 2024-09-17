@@ -14,3 +14,5 @@
 git init -- es para mandar un archivo a repositorio
 git commit -- 
 git pull
+git commit --
+git push
