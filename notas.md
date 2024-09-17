@@ -10,3 +10,6 @@
 ## Algoritmos (Python)
 - Se puede poner un numero ilimitado de datos para imprimir.
 - INPUT siempre regresa un string (letras/texto)
+
+git init -- es para mandar un archivo a repositorio
+git commit -- 
